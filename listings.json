@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/publication.html",
+    "items": [
+      "/publications/writing/slide/presents.html",
+      "/publications/writing/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",

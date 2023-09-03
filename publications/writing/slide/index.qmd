@@ -1,0 +1,16 @@
+---
+title: "Writing"
+author: "Muhammad A Hasibuan"
+format: revealjs
+---
+
+
+# this the first
+- Problem
+- Similar solution
+- Gap of current solution
+- my research
+
+# This is the secon
+
+- The event abstraction is very important in todays 
